@@ -16,3 +16,5 @@ Simple 🌡️💧temperature and humidity sensor created on Arduino UNO, capabl
 | `LCD1602 I2C`| **GND** -> GND, **VCC** -> 5V, **SDA** -> A4, **SCL** -> A5 |
 | `DHT11`      | **S** -> pin7, **VCC** -> 5V, **GND** -> GND |
 | `RGB LED`    | **R** -> pin8, **G** -> pin9, **B** -> pin10, **GND** -> GND |
+
+# How it works❓
