@@ -26,3 +26,6 @@ Simple 🌡️💧temperature and humidity sensor created on Arduino UNO, capabl
 # How it works❓
 
 Data on air temperature and humidity obtained from the DHT11 sensor is read and displayed on the LCD1602 I2C display, and the RGB LED color signal indicates the data norm indicator (normal - green, critical - red, low - blue) simultaneously displaying an indicator symbol in the display on the data lines that indicates which indicator the color signal is displayed.
+
+# Output result✅
+![](github/arduinoTempHumSensorDemo.gif)
