@@ -29,3 +29,5 @@ Data on air temperature and humidity obtained from the DHT11 sensor is read and 
 
 # Output result✅
 ![](github/arduinoTempHumSensorDemo.gif)
+
+It works so good!
