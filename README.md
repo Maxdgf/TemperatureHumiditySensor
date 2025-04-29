@@ -1,4 +1,4 @@
-![Logo](github/arduino.jpg)
+<center>![Logo](github/arduino.jpg)</center>
 
 # TemperatureHumiditySensor
 Simple 🌡️💧temperature and humidity sensor created on Arduino UNO, capable of measuring the current temperature and humidity, as well as reflecting the acceptability of humidity and temperature with a color signal via RGB LED.
